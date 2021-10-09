@@ -1,0 +1,23 @@
+<?xml version= "1.0" encoding= "UTF-8"?>
+	<Library>
+		<Technical-Books>
+			<ISBN-10>0134801148</ISBN-10>
+			<Title>Web Development and Design Foundations with HTML5 (What's New in Computer Science) 9th Edition</Title>
+			<Author>Terry Felke-Morris </Author>
+			
+			
+			<ISBN-10>9781430247173</ISBN-10>
+			<Title>Foundation Game Design with HTML5 and JavaScript 1st ed. Edition</Title>
+			<Author>Rex van der Spuy</Author>
+		</Technical-Books>
+		<Cookery-Books>
+			<ISBN-10>9780062820150</ISBN-10>
+			<Title>Magnolia Table</Title>
+			<Author>Joanna Gaines</Author>
+			
+			
+			<ISBN-10>1455525251</ISBN-10>
+			<Title>Gordon Ramsay's Home Cooking: Everything You Need to Know to Make Fabulous Food</Title>
+			<Author>Gordon Ramsay </Author>
+		</Cookery-Books>
+	</Library>
